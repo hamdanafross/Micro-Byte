@@ -1,4 +1,4 @@
-# 🤖 BYTE — An AI Creature That Lives on Your Desk
+# µ BYTE — An AI Creature That Lives on Your Desk
 
 > A living, feeling pixel creature built with an **Arduino Uno**, **MAX7219 8×8 LED Matrix**, and **HC-SR04 ultrasonic sensor**. BYTE has moods, draining stats, a blinking face, and reacts when you reach out to it — all with just 3 components and 7 jumper wires.
 
@@ -255,6 +255,6 @@ Released under the **MIT License** — free to use, remix, and build upon.
 
 Built with 🔴 red LEDs and an unreasonable amount of emotional investment
 
-*BYTE does not have feelings. Probably.*
+*µBYTE does not have feelings. Probably.*
 
 </div>
