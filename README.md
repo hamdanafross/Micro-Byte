@@ -8,11 +8,11 @@
 
 | 😊 Happy | 😁 Grinning | ❤️ Love |
 |:---:|:---:|:---:|
-| ![Happy](https://github.com/user-attachments/assets/e55bd68f-2b50-408c-85c5-14be1442852d) | ![Grinning](photos/grinning.jpg) | ![Heart](photos/heart.jpg) |
+| ![Happy](https://github.com/user-attachments/assets/e55bd68f-2b50-408c-85c5-14be1442852d) | ![Grinning](https://github.com/user-attachments/assets/acdd27a0-33ef-45a0-be81-049627f76ad3) | ![Heart](https://github.com/user-attachments/assets/4599c2ad-cef7-4e1e-b62c-f786d55a2ee5) |
 
 | 😢 Sad | 💀 Dead |
 |:---:|:---:|
-| ![Sad](photos/sad.jpg) | ![Dead](photos/dead.jpg) |
+| ![Sad](https://github.com/user-attachments/assets/735683f3-1f27-4208-8bd8-25e6ea57e2da) | ![Dead](https://github.com/user-attachments/assets/e86a5c43-c04e-4f76-968d-f7a2357db436) |
 
 *BYTE's full range of emotions — captured live on the 8×8 LED matrix*
 
@@ -205,11 +205,11 @@ Install both via **Arduino IDE → Sketch → Include Library → Manage Librari
 
 | Expression | Description |
 |-----------|-------------|
-| ![Happy](photos/happy.jpg) | **Happy** — default state when well-fed and content |
-| ![Grinning](photos/grinning.jpg) | **Grinning** — peak happiness, wide pixel smile |
-| ![Heart](photos/heart.jpg) | **Love** — triggered by hand proximity, full heart fill |
-| ![Sad](photos/sad.jpg) | **Sad** — hunger stat critically low |
-| ![Dead](photos/dead.jpg) | **Dead** — all stats depleted, X eyes, plays funeral tone |
+| ![Happy](https://github.com/user-attachments/assets/e55bd68f-2b50-408c-85c5-14be1442852d) | **Happy** — default state when well-fed and content |
+| ![Grinning](https://github.com/user-attachments/assets/acdd27a0-33ef-45a0-be81-049627f76ad3) | **Grinning** — peak happiness, wide pixel smile |
+| ![Heart](https://github.com/user-attachments/assets/4599c2ad-cef7-4e1e-b62c-f786d55a2ee5) | **Love** — triggered by hand proximity, full heart fill |
+| ![Sad](https://github.com/user-attachments/assets/735683f3-1f27-4208-8bd8-25e6ea57e2da) | **Sad** — hunger stat critically low |
+| ![Dead](https://github.com/user-attachments/assets/e86a5c43-c04e-4f76-968d-f7a2357db436) | **Dead** — all stats depleted, X eyes, plays funeral tone |
 
 ---
 
