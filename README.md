@@ -8,7 +8,7 @@
 
 | 😊 Happy | 😁 Grinning | ❤️ Love |
 |:---:|:---:|:---:|
-| ![Happy](photos/happy.jpg) | ![Grinning](photos/grinning.jpg) | ![Heart](photos/heart.jpg) |
+| ![Happy](https://github.com/user-attachments/assets/e55bd68f-2b50-408c-85c5-14be1442852d) | ![Grinning](photos/grinning.jpg) | ![Heart](photos/heart.jpg) |
 
 | 😢 Sad | 💀 Dead |
 |:---:|:---:|
